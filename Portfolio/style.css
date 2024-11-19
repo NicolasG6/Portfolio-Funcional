@@ -1,0 +1,197 @@
+body{
+margin: 0;
+height: 100vh;
+background-image: url(Untitled.png);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+.Titulo{
+    font-size: 36px;
+    margin-left: 25%;
+    font-weight: 400;
+    color: white;
+    display: grid;
+    width: 340px;
+
+}
+.Paragrafo{
+    margin-top: 5%;
+    font-size: large;
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 200;
+    color: white;
+    margin-left: 27%;
+}
+.jersey-10-regular {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.Nome{
+    color: white;
+    margin-left: 6%;
+    height: 8%;
+    font-size: 23px;
+    font-weight: 300px
+    
+}
+.Cidade{
+    color: white;
+    margin-left: 7%;
+    position: absolute;
+    top: 50%;
+}
+.Objetivo{
+    color: white;
+    margin-left: 7%;
+    position: absolute;
+    top: 60%;
+    font-size: large;
+}
+.titulo2{
+    font-size: 50px;
+    position: absolute;
+    top: 3%;
+    right: 7%;
+    font-weight: 400;
+    color: white;
+    display: grid;
+    width: 340px;
+}
+.paragrafo2{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: large;
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 200;
+    color: white;
+    margin-left: 64%;
+}
+.Dev{
+    color: white;
+    font-size: large;
+    position: absolute;
+    top:30%;
+    padding: 5%;
+    margin-left: 2%;
+}
+.linha-vertical{
+    width: 1px;
+    height: 57vh;
+    background-color: white;
+    position: absolute;
+    top: 150px;
+    left: 145vh;
+}
+.linha-horizontal{
+   height: 2px;
+   width: 30%;
+   background-color: white;
+   position: absolute;
+   top: 350px;
+   left: 50vh ;
+}
+.html{
+    color: white;
+    margin-right: 2%;
+    position: absolute;
+    top: 270px;
+    right: 20vh ;
+    font-size: 19px;
+    font-weight: 500;
+}
+.java-script{
+    color: white;
+    margin-right: 1%;
+    position: absolute;
+    top: 350px;
+    right: 20vh;
+    font-size: 19px;
+    font-weight: 500;
+}
+.react{
+    color: white;
+    margin-right: 3.5%;
+    position: absolute;
+    top: 450px;
+    right: 20vh;
+    font-size: 19px;
+    font-weight: 500;
+}
+.java{
+    color: white;
+    margin-right: 0%;
+    position: absolute;
+    top: 550px;
+    right: 19vh;
+    font-size: 19px;
+    font-weight: 500;
+}
+.acompanhe{
+    color: white;
+    margin-right: 5%;
+    position: absolute;
+    top: 670px;
+    right: 14vh;
+    font-size: 35px;
+    font-weight: 200;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+}
+.profile-foto{
+position: absolute;
+margin-top: -26%;
+margin-right: 76%
+}
+.logo-github{
+    margin-left: 60%;
+    top: 340px ;
+    position: absolute;
+}
+
+.logo-linkedin{
+    margin-left: 70%;
+    position: absolute;
+    top: 365px;
+}
+.Formacao{
+    font-size: larger;
+    font-weight: 600px;
+    color: white;
+    position: relative;
+    margin-left: 23%;
+    margin-top: -3%;
+}
+.habilidades{
+    font-size: larger;
+    font-weight: 800px;
+    color: white;
+    position: relative;
+    margin-left: 23%;
+    margin-top: 3%;
+}
+.experiencia-p{
+    color: white;
+    font-size: large;
+    font-weight: 800px;
+    position: relative;
+    margin-left: 48%;
+    margin-top: -24%;
+}
+.contate-me{
+    color: white;
+    font-size: large;
+    font-weight: 800px;
+    position: relative;
+    margin-left: 48%;
+    margin-top: 3.25%;
+}
+
+
